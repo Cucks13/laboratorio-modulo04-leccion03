@@ -1,5 +1,5 @@
 # Proyecto de Base de Datos con Python y SQL
-
+Es el Archivo Laboratorio3 donde se hizo.
 ## Descripción General
 
 Durante el desarrollo de este proyecto, he tenido muchos problemas relacionados con la biblioteca **psycopg2** en Python. Más concretamente, he enfrentado dificultades con el reconocimiento de operaciones clave como `commit`, `rollback`, `execute`, y `executemany`. A pesar de seguir los procedimientos habituales para gestionar transacciones en bases de datos, la interacción con **psycopg2** ha sido un completo quebradero de cabeza.
